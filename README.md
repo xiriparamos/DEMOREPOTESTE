@@ -1,31 +1,31 @@
 # 2627leic32d-t1-group-2
 
 **TDS — Trabalho Prático Fase 1 · Go em modo consola** · LEIC · Semestre de Inverno 2026/2027
-📅 Entrega: **26 de outubro** (fim do dia) · 🏷️ Tag: `Trab1`
+ Entrega: **26 de outubro**  · 
 
 ----
 
 <p align="center">
-<strong><a href="#enunciado">📄 Enunciado</a></strong>
+<strong><a href="#enunciado"> Enunciado</a></strong>
 |
-<strong><a href="#duvidas">🤔 Dúvidas e Decisões</a></strong>
+<strong><a href="#duvidas"> Dúvidas e Decisões</a></strong>
 |
-<strong><a href="#trabalho">🛠️ O Nosso Trabalho</a></strong>
+<strong><a href="#trabalho"> O Nosso Trabalho</a></strong>
 |
-<strong><a href="#evolucao">📈 Evolução</a></strong>
+<strong><a href="#evolucao"> Evolução</a></strong>
 </p>
 
 ----
 
-## 👥 Grupo
+##  Grupo
 
 | Membro | Nº | GitHub |
 |---|---|---|
-| Membro 1 | | |
-| Membro 2 | | |
-| Membro 3 | | |
+| Filipa | | |
+| Guilherme | | |
+| João | | |
 
-## 🧭 Como funciona este README
+##  Como funciona este README
 
 1. **[Enunciado](#enunciado)** → resumo e interpretação do que nos pedem.
 2. **[Dúvidas e Decisões](#duvidas)** → cada dúvida que surge tem: contexto do enunciado → dúvida → **a ideia de cada um** → **decisão tomada**. Fica tudo registado para vermos a evolução e para explicarmos na apresentação.
@@ -39,7 +39,7 @@ Legenda: 🟡 Por decidir · 🟢 Decidido · 🔴 Revisto/alterado
 ----
 
 <a id="enunciado"></a>
-## 📄 Enunciado — Interpretação
+##  Enunciado — Interpretação
 
 ### Contexto geral
 - A avaliação prática é feita com uma aplicação **Go**, desenvolvida ao longo do semestre, em **várias fases**.
@@ -96,9 +96,9 @@ Turn: O (White)  Captures: #=0 - O=0
 ----
 
 <a id="duvidas"></a>
-## 🤔 Dúvidas e Decisões
+##  Dúvidas e Decisões
 
-### 📑 Índice
+###  Índice
 
 | # | Tema | Estado |
 |---|---|---|
@@ -112,7 +112,7 @@ Turn: O (White)  Captures: #=0 - O=0
 
 ** Contexto no enunciado:** *"_(a preencher)_"*. 
 
-**❓ Dúvida:** escrever a duvida
+** Dúvida:** escrever a duvida
 
 | Membro | Ideia |
 |---|---|
@@ -120,10 +120,10 @@ Turn: O (White)  Captures: #=0 - O=0
 | **Guilherme:** | |
 | **João:** | |
 
-**✅ Decisão tomada:**
+** Decisão tomada:**
 > _(a preencher)_
 
-**🧠 Porquê:** _(a preencher)_ · **📅 Data:** _ · 
+** Porquê:** _(a preencher)_ · ** Data:** _ · 
 
 ----
 
@@ -137,9 +137,9 @@ Copiar, colar no fim e preencher (e adicionar ao índice):
 <a id="dXX"></a>
 ### DXX — Título da dúvida  🟡
 
-**📖 Contexto no enunciado:** _resumo da parte do enunciado_
+** Contexto no enunciado:** _resumo da parte do enunciado_
 
-**❓ Dúvida:** _qual é a duvida concreta?_
+** Dúvida:** _qual é a duvida concreta?_
 
 | Membro | Ideia |
 |---|---|
@@ -147,23 +147,23 @@ Copiar, colar no fim e preencher (e adicionar ao índice):
 | **Guilherme:** | |
 | **João:** | |
 
-**✅ Decisão tomada:**
+** Decisão tomada:**
 > _(a preencher)_
 
-**🧠 Porquê:** _ · **📅 Data:** _ · 
+** Porquê:** _ · **Data:** _ · 
 ```
 
 ----
 
 <a id="trabalho"></a>
-## 🛠️ O Nosso Trabalho
+##  O Nosso Trabalho
 
 > Preencher à medida que for avançando. Serve de guia para a apresentação.
 
-### 🧩 Visão geral
+###  Visão geral
 _por prencher_
 
-### 🗂️ Estrutura do projeto
+###  Estrutura do projeto
 ```
 src/
 ├── como/      # oq cada pasta tem 
@@ -171,17 +171,17 @@ src/
 └── estruturado/          # oq cada pasta tem 
 ```
 
-### ▶️ Como correr
+###  Como correr
 ```bash
 # comando para compilar / correr
 ```
 
-### 💬 Exemplo de sessão
+###  Exemplo de sessão
 ```
 output da consola
 ```
 
-### ✅ Checklist de funcionalidades
+###  Checklist de funcionalidades
 
 | Funcionalidade | Responsável | Estado |
 |---|---|---|
@@ -191,7 +191,7 @@ Legenda: 🟡 Por decidir · 🟢 Decidido · 🔴 Revisto/alterado
 
 
 <a id="evolucao"></a>
-## 📈 Evolução das decisões
+##  Evolução das decisões
 
 | Data | Decisão | O que mudou | Porquê |
 |---|---|---|---|
